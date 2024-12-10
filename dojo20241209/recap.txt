@@ -1,0 +1,25 @@
+=)
+
+- Babysteps foram levadas a sério
+- Refatoração fez toda a diferença
+- A gambiarra é da hora!
+- Tudo foi devidamente testado
+- Vim + colorscheme wildcharm
+  - Y, yj, zP (em visual block), <C-a> e <C-x>, <C-d> e <C-t> (em insert)
+- watch no terminal do Vim resolveu nossos problemas para rodar os testes
+- Vimos a transição de 39999 para 40000 no time epoch do Garoa
+- Resolvemos o problema
+- Usamos pytest.mark.parametrize
+- Discussões sobre type hints, scrum, agile, XP
+- O range é uma sequência (permite __getitem__ !!!)
+
+=(
+
+- Faltou Pizza
+- Solução n^2 é lenta
+- Dificuldade de encontrar as refatorações mais importantes
+- Faltou muita gente que havia confirmado que viria =/
+- Atrasou / engarrafamento em São Paulo
+- Não usamos nem o dojo toolkit do Grupy-Samca e nem o dose
+  - Não conseguimos instalar o wxPython no ambiente virtual
+- O .vimrc mudou o <C-a> padrão mas <C-x> funcionava, então usamos vim -u NONE
