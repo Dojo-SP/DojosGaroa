@@ -13,6 +13,8 @@ Data          Linguagem Framework de testes Problema
 
 .. _`2016-08-09`: dojo20160809/
 
+.. _`2024-12-09`: dojo20241209/
+
 .. _`Python`: http://python.org
 
 .. _`py.test`: http://pytest.org
